@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Revalia');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background: #222;
+}
+
+canvas {
+  border: 1px solid #444;
+  background-color: #84d0f0;
+  margin: 50px auto
+}
